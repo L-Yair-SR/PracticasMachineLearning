@@ -9,3 +9,5 @@ Este es un recopilatorio de pequeños proyectos/practicas sobre machine learning
 1. [Red Neuronal](/RedNeuronal/RedNeuronal.ipynb)
 
 2. [Regresion](/Regresion/Regresion.ipynb)
+
+3. [Analisis de Textos](/AnalisisTextos/AnalisisTextos.ipynb)
