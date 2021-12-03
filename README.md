@@ -11,3 +11,7 @@ Este es un recopilatorio de pequeños proyectos/practicas sobre machine learning
 2. [Regresion](/Regresion/Regresion.ipynb)
 
 3. [Analisis de Textos](/AnalisisTextos/AnalisisTextos.ipynb)
+
+4. [Analisis de imagenes](/AnalisisImagen/Img&His.ipynb)
+
+5. [KMeans](/Kmeans/Kmeans) 
